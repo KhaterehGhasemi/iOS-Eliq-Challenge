@@ -29,7 +29,7 @@ When user clicks on the white buttons , you should show list of currencies to se
 
 ## Guidelines
 
-We suggest spending around 1 day working on this project.although you may spend longer if you wish. We ask that you don't spend more than 2 days so we can consider all submissions fairly.
+We suggest you spending maximum 8 hours working on this project.
 
 ## End Result
 
